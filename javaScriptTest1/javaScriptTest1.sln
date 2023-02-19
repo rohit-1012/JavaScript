@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "javaScriptTest1", "javaScriptTest1.esproj", "{A9F33F58-0AB1-4A4B-98E8-9EAA3285820A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9F33F58-0AB1-4A4B-98E8-9EAA3285820A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9F33F58-0AB1-4A4B-98E8-9EAA3285820A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9F33F58-0AB1-4A4B-98E8-9EAA3285820A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A9F33F58-0AB1-4A4B-98E8-9EAA3285820A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9F33F58-0AB1-4A4B-98E8-9EAA3285820A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9F33F58-0AB1-4A4B-98E8-9EAA3285820A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6089A3DF-15B7-4E4F-98C1-2CF836E18CE5}
+	EndGlobalSection
+EndGlobal

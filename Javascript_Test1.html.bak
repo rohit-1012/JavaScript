@@ -1,0 +1,7 @@
+<html>
+	<head>
+		<title>"JavaScript Test: 1"</title>
+		<script src="alert.js"></script>
+		<script src="variables1.js"></script>
+	</head>
+</html>

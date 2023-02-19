@@ -1,0 +1,2 @@
+D:\Rohit Stuff\rohit-1012\JavaScript\javaScriptTest1\obj\Debug\javaScriptTest1.esproj.SuggestedBindingRedirects.cache
+D:\Rohit Stuff\rohit-1012\JavaScript\javaScriptTest1\obj\Debug\javaScriptTest1.esproj.CoreCompileInputs.cache
